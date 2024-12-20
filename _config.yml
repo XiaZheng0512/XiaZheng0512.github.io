@@ -22,7 +22,7 @@ repository               : "XiaZheng0512/xiazheng0512.github.io"
 author:
   # Biographic information
   avatar           : "微信图片_20241212163521.jpg"
-  name             : "Xia Zheng"
+  # name             : "Xia Zheng"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Chongqing, China"
