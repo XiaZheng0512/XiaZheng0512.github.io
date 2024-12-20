@@ -24,7 +24,7 @@ author:
   avatar           : "微信图片_20241212163521.jpg"
   name             : "Xia Zheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  #bio              : "Short biography for the left-hand sidebar"
   location         : "Chongqing, China"
   # employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
